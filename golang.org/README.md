@@ -299,6 +299,7 @@ ok  	github.com/DevSusu/golang.org/greetings	0.005s
 --- PASS: TestHelloEmpty (0.00s)
 PASS
 ok  	github.com/DevSusu/golang.org/greetings	0.005s
+```
 
 ## Build
 
